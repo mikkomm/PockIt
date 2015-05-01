@@ -1,0 +1,16 @@
+{
+    "name": "com.ubuntu.developer.turan.mahmudov.pocket",
+    "description": "Unofficial Pocket Client to save links for later reading.",
+    "architecture": "all",
+    "title": "PockIt",
+    "hooks": {
+        "Pocket": {
+            "apparmor": "Pocket.apparmor",
+            "desktop": "Pocket.desktop",
+            "content-hub": "Pocket-content.json"
+        }
+    },
+    "version": "0.3.1",
+    "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
+    "framework": "ubuntu-sdk-14.10"
+}

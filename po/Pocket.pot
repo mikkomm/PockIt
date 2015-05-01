@@ -1,0 +1,129 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-22 01:19+0400\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: components/FavoritesHome.qml:65 components/PocketHome.qml:65
+#: components/ArchiveHome.qml:65
+msgid "Remove"
+msgstr ""
+
+#: components/FavoritesHome.qml:75 components/PocketHome.qml:75
+#: components/ArchiveHome.qml:75
+msgid "Share"
+msgstr ""
+
+#: components/FavoritesHome.qml:82 components/PocketHome.qml:82 Main.qml:221
+#: Main.qml:224
+msgid "Archive"
+msgstr ""
+
+#: components/FavoritesHome.qml:91 components/PocketHome.qml:91
+#: components/ArchiveHome.qml:92
+msgid "Favorite"
+msgstr ""
+
+#: components/FavoritesHome.qml:238
+msgid "<b>YOU HAVE NO FAVORITES</b>"
+msgstr ""
+
+#: components/FavoritesHome.qml:239 components/PocketHome.qml:245
+#: components/ArchiveHome.qml:247
+msgid "<b>NO RESULTS FOUND</b>"
+msgstr ""
+
+#: components/PocketHome.qml:244
+msgid "<b>YOUR LIST IS EMPTY</b>"
+msgstr ""
+
+#: ui/LoginPage.qml:11
+msgid "Login"
+msgstr ""
+
+#: ui/LoginPage.qml:41
+msgid "Connection Error"
+msgstr ""
+
+#: ui/LoginPage.qml:41
+msgid ""
+"Unable to authenticate to Pocket. Check your connection and firewall "
+"settings."
+msgstr ""
+
+#: ui/LoginPage.qml:66
+msgid "Loading..."
+msgstr ""
+
+#: ui/LoginPage.qml:67
+msgid "Success!"
+msgstr ""
+
+#: Main.qml:33
+msgid "Search"
+msgstr ""
+
+#: Main.qml:107
+msgid "My List"
+msgstr ""
+
+#: Main.qml:110
+msgid "PockIt"
+msgstr ""
+
+#: Main.qml:143 Main.qml:198 Main.qml:256
+msgid "Search by title or URL"
+msgstr ""
+
+#: Main.qml:163 Main.qml:166
+msgid "Favorites"
+msgstr ""
+
+#: Main.qml:284
+msgid "Networking Status"
+msgstr ""
+
+#: Main.qml:307
+msgid "External"
+msgstr ""
+
+#: Main.qml:316
+msgid "Web View"
+msgstr ""
+
+#: Main.qml:316
+msgid "Article View"
+msgstr ""
+
+#: Main.qml:330
+msgid "Refresh"
+msgstr ""
+
+#: Main.qml:406
+msgid "Font Size"
+msgstr ""
+
+#: Main.qml:428
+msgid "Close"
+msgstr ""
+
+#: components/ArchiveHome.qml:82
+msgid "Add"
+msgstr ""
+
+#: components/ArchiveHome.qml:246
+msgid "<b>YOUR ARCHIVE IS EMPTY</b>"
+msgstr ""
