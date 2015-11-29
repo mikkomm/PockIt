@@ -10,7 +10,7 @@
             "content-hub": "Pocket-content.json"
         }
     },
-    "version": "0.4",
+    "version": "0.5",
     "maintainer": "Turan Mahmudov <turan.mahmudov@gmail.com>",
     "framework": "ubuntu-sdk-14.10"
 }

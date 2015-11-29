@@ -212,18 +212,6 @@ function favorites_got(results) {
 
         favoriteshomeitemsModel.append({"item_id":item['item_id'], "title":item['resolved_title'], "url":item['resolved_url'], "image":image, "domain":only_domain, "time_added":item['time_added'], "is_fav":item['favorite'], "sort_id":item['sort_id'], "is_video":is_video});
     }
-    var n;
-    var j;
-    for (n=0; n < favoriteshomeitems.count; n++) {
-        for (j=n+1; j < favoriteshomeitems.count; j++)
-        {
-            if (favoriteshomeitems.model.get(n).sort_id > favoriteshomeitems.model.get(j).sort_id)
-            {
-                favoriteshomeitems.model.move(j, n, 1);
-                n=0;
-            }
-        }
-    }
 
     favoriteshomeitems.status = 1;
 }

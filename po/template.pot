@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-23 03:56+0500\n"
+"POT-Creation-Date: 2015-10-23 04:03+0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,171 +17,204 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ui/LoginPage.qml:11
+#: ui/LoginPage.qml:11 .ubuntu-sdk-deploy/ui/LoginPage.qml:11
 msgid "Login"
 msgstr ""
 
-#: ui/LoginPage.qml:41
+#: ui/LoginPage.qml:41 .ubuntu-sdk-deploy/ui/LoginPage.qml:41
 msgid "Connection Error"
 msgstr ""
 
-#: ui/LoginPage.qml:41
+#: ui/LoginPage.qml:41 .ubuntu-sdk-deploy/ui/LoginPage.qml:41
 msgid ""
 "Unable to authenticate to Pocket. Check your connection and firewall "
 "settings."
 msgstr ""
 
-#: ui/LoginPage.qml:66
+#: ui/LoginPage.qml:66 .ubuntu-sdk-deploy/ui/LoginPage.qml:66
 msgid "Loading..."
 msgstr ""
 
-#: ui/LoginPage.qml:67
+#: ui/LoginPage.qml:67 .ubuntu-sdk-deploy/ui/LoginPage.qml:67
 msgid "Success!"
 msgstr ""
 
-#: Main.qml:33
+#: Main.qml:33 .ubuntu-sdk-deploy/Main.qml:33
 msgid "Search"
 msgstr ""
 
-#: Main.qml:93
+#: Main.qml:93 .ubuntu-sdk-deploy/Main.qml:93
 msgid "My List"
 msgstr ""
 
-#: Main.qml:96
+#: Main.qml:96 .ubuntu-sdk-deploy/Main.qml:96
 msgid "PockIt"
 msgstr ""
 
-#: Main.qml:129 Main.qml:187 Main.qml:245
+#: Main.qml:129 Main.qml:187 Main.qml:245 .ubuntu-sdk-deploy/Main.qml:129
+#: .ubuntu-sdk-deploy/Main.qml:187 .ubuntu-sdk-deploy/Main.qml:245
 msgid "Search by title or URL"
 msgstr ""
 
-#: Main.qml:152 Main.qml:155
+#: Main.qml:152 Main.qml:155 .ubuntu-sdk-deploy/Main.qml:152
+#: .ubuntu-sdk-deploy/Main.qml:155
 msgid "Favorites"
 msgstr ""
 
-#: Main.qml:210 Main.qml:213 components/PocketHome.qml:84
-#: components/FavoritesHome.qml:84
+#: Main.qml:210 Main.qml:213 .ubuntu-sdk-deploy/Main.qml:210
+#: .ubuntu-sdk-deploy/Main.qml:213
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:84
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:84
+#: components/PocketHome.qml:84 components/FavoritesHome.qml:84
 msgid "Archive"
 msgstr ""
 
-#: Main.qml:283
+#: Main.qml:283 .ubuntu-sdk-deploy/Main.qml:283
 msgid "External"
 msgstr ""
 
-#: Main.qml:292
+#: Main.qml:292 .ubuntu-sdk-deploy/Main.qml:292
 msgid "Web View"
 msgstr ""
 
-#: Main.qml:292
+#: Main.qml:292 .ubuntu-sdk-deploy/Main.qml:292
 msgid "Article View"
 msgstr ""
 
-#: Main.qml:306
+#: Main.qml:306 .ubuntu-sdk-deploy/Main.qml:306
 msgid "Refresh"
 msgstr ""
 
-#: Main.qml:326
+#: Main.qml:326 .ubuntu-sdk-deploy/Main.qml:326
 msgid "Display Settings"
 msgstr ""
 
-#: Main.qml:414
+#: Main.qml:414 .ubuntu-sdk-deploy/Main.qml:414
 msgid "Font Size"
 msgstr ""
 
-#: Main.qml:441
+#: Main.qml:441 .ubuntu-sdk-deploy/Main.qml:441
 msgid "Save"
 msgstr ""
 
-#: Main.qml:456
+#: Main.qml:456 .ubuntu-sdk-deploy/Main.qml:456
 msgid "Close"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:67
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:67
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:67
 #: components/ArchiveHome.qml:67 components/PocketHome.qml:67
 #: components/FavoritesHome.qml:67
 msgid "Remove"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:77
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:77
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:77
 #: components/ArchiveHome.qml:77 components/PocketHome.qml:77
 #: components/FavoritesHome.qml:77
 msgid "Share"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:84
 #: components/ArchiveHome.qml:84
 msgid "Add"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:94
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:93
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:93
 #: components/ArchiveHome.qml:94 components/PocketHome.qml:93
 #: components/FavoritesHome.qml:93
 msgid "Favorite"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:248
 #: components/ArchiveHome.qml:248
 msgid "<b>YOUR ARCHIVE IS EMPTY</b>"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/ArchiveHome.qml:249
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:247
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:241
 #: components/ArchiveHome.qml:249 components/PocketHome.qml:247
 #: components/FavoritesHome.qml:241
 msgid "<b>NO RESULTS FOUND</b>"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/PocketHome.qml:246
 #: components/PocketHome.qml:246
 msgid "<b>YOUR LIST IS EMPTY</b>"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/FavoritesHome.qml:240
 #: components/FavoritesHome.qml:240
 msgid "<b>YOU HAVE NO FAVORITES</b>"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide4.qml:56
 #: components/Walkthrough/Slide4.qml:56
 msgid "Build Playlists"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide4.qml:70
 #: components/Walkthrough/Slide4.qml:70
 msgid ""
 "Make playlists on the go. Put together the perfect playlist for any "
 "situation right from your phone."
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide3.qml:56
 #: components/Walkthrough/Slide3.qml:56
 msgid "Find Your Songs"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide3.qml:70
 #: components/Walkthrough/Slide3.qml:70
 msgid ""
 "Adding songs to your Library builds a quick-list of just the tunes you love "
 "the most."
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide5.qml:56
 #: components/Walkthrough/Slide5.qml:56
 msgid "Download"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide5.qml:70
 #: components/Walkthrough/Slide5.qml:70
 msgid ""
 "Download VK songs to your phone and play on your favorite music player any "
 "time you want."
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide5.qml:84
 #: components/Walkthrough/Slide5.qml:84
 msgid "Start"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Walkthrough.qml:67
 #: components/Walkthrough/Walkthrough.qml:67
 msgid "Skip"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide1.qml:59
 #: components/Walkthrough/Slide1.qml:59
 msgid "VK Music"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide1.qml:74
 #: components/Walkthrough/Slide1.qml:74
 msgid "Take a tour or skip to browse now."
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide2.qml:56
 #: components/Walkthrough/Slide2.qml:56
 msgid "Search and Play"
 msgstr ""
 
+#: .ubuntu-sdk-deploy/components/Walkthrough/Slide2.qml:70
 #: components/Walkthrough/Slide2.qml:70
 msgid ""
 "Search for any song or artist and play just the songs you want. It's all up "

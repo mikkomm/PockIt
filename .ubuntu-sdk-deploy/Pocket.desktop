@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=PockIt
-Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Exec=qmlscene $@ Main.qml
 Icon=Pocket.png
 Terminal=false
 Type=Application

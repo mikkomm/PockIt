@@ -4,8 +4,7 @@
         "webview",
         "content_exchange",
         "content_exchange_source",
-        "connectivity",
-        "debug"
+        "connectivity"
     ],
     "policy_version": 1.2
 }
