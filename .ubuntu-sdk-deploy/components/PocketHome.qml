@@ -151,7 +151,7 @@ Item {
                     id: itemtitle
                     text: title
                     wrapMode: Text.WordWrap
-                    font.pointSize: units.gu(1.5)
+                    font.pixelSize: FontUtils.sizeToPixels("medium")
                 }
                 Text {
                     anchors.top: itemtitle.bottom
@@ -162,7 +162,7 @@ Item {
                     id: itemdomain
                     text: domain
                     wrapMode: Text.WordWrap
-                    font.pointSize: units.gu(1.1)
+                    font.pixelSize: FontUtils.sizeToPixels("small")
                 }
                 Rectangle {
                     anchors.top: parent.top
